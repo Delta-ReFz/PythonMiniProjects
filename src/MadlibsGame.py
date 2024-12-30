@@ -1,4 +1,6 @@
-
+'''
+Inputs and Outputs
+'''
 
 adjective1 = input("Enter an adjective: ")
 noun1 = input("Enter a noun: ")

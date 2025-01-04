@@ -1,3 +1,7 @@
+'''
+While loop
+'''
+
 
 principle = 0
 rate = 0

@@ -1,5 +1,5 @@
 '''
-List, sets & tuples
+List, sets & tuples, append()
 '''
 
 foods = []
@@ -19,3 +19,8 @@ print("---------- YOUR CART ----------")
 
 for food in foods:
     print(food, end=" ")
+
+for price in prices:
+    total = total + price
+
+print(f"\nYour total is ${total}")
